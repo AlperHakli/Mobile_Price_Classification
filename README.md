@@ -39,7 +39,8 @@ These methods were applied to find the best parameters for each algorithm to imp
 Lastly I evaulated best model with the roc curve
 
 
-## Lets look at the notebook ##
+## Lets look at the data ##
+
 
 ![Ekran Alıntısı](images/Ekran%20Alıntısı.JPG)
 
