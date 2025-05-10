@@ -66,6 +66,18 @@ Lastly I evaulated best model with the roc curve
 ### Accuracy of tuned randomforestclassifier with hyperopt
 <img src="images/Ekran%20Alıntısı9.JPG" alt="Ekran Alıntısı" width="400" />
 
+### Artifical Neural Network model
+
+<img src="images/Ekran%20Alıntısı12.JPG" alt="Ekran Alıntısı" width="400" />
+
+### Accuracy Rare of ANN model
+
+<img src="images/Ekran%20Alıntısı10.JPG" alt="Ekran Alıntısı" width="400" />
+
+### ROC curve
+
+<img src="images/Ekran%20Alıntısı11.JPG" alt="Ekran Alıntısı" width="400" />
+
 
 
 
