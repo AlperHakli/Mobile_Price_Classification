@@ -41,6 +41,9 @@ Lastly I evaulated best model with the roc curve
 
 # Lets look at the notebook 
 
+
+## Data Analysis
+
 ### Features and Explanation 
 <img src="images/Ekran%20Alıntısı.JPG" alt="Ekran Alıntısı" width="400" />
 
@@ -52,6 +55,8 @@ Lastly I evaulated best model with the roc curve
 
 ### Correlation Map with Heatmap
 <img src="images/Ekran%20Alıntısı4.JPG" alt="Ekran Alıntısı" width="300" />
+
+## Training and Evaulating
 
 ### Accuracy rate of different algorithms
 <img src="images/Ekran%20Alıntısı5.JPG" alt="Ekran Alıntısı" width="300" />
