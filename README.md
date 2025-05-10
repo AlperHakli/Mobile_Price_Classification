@@ -14,7 +14,7 @@ The dataset used in this project is the "Mobile Price Classification" dataset. I
 - Memory
 - And other technical specifications
 
-The target variable is the **price range** (classified into 4 categories).
+The target variable is the **price range** (classified into 4 categories).</br>
 Database src : https://www.kaggle.com/code/alperhakl/mobile-price-prediction
 
 ## Algorithms Used 
