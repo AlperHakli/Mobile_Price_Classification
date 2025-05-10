@@ -41,7 +41,7 @@ Lastly I evaulated best model with the roc curve
 
 ## Lets look at the notebook ##
 
-![Image](images/Ekran ALıntısı.JPG)
+![Image](images/Ekran ALıntısı.jpg)
 
 
 
