@@ -75,7 +75,7 @@ Lastly I evaulated best model with the roc curve
 
 <img src="images/Ekran%20Alıntısı12.JPG" alt="Ekran Alıntısı" width="400" />
 
-### Accuracy Rare of ANN model
+### Accuracy Rate of ANN model
 
 <img src="images/Ekran%20Alıntısı10.JPG" alt="Ekran Alıntısı" width="400" />
 
