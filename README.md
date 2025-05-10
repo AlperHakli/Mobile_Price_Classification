@@ -15,6 +15,8 @@ The dataset used in this project is the "Mobile Price Classification" dataset. I
 - And other technical specifications
 
 The target variable is the **price range** (classified into 4 categories).
+Database src : https://www.kaggle.com/code/alperhakl/mobile-price-prediction
+
 ## Algorithms Used 
 
 I applied several classification algorithms including Logistic Regression, Random Forest, and Support Vector Machines (SVM) to predict the mobile price range.
